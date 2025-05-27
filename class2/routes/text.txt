@@ -1,0 +1,12 @@
+Route :
+1) get, post, put/patch(update) and delete 
+2) named route 
+3) parameterized route 
+4) controller Route 
+5) middleware route 
+
+
+get , post , put (update) , delete 
+
+View
+
