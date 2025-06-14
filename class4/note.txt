@@ -1,0 +1,8 @@
+Migrations
+
+-php artisan make:migration create_tableName(s)_table   
+-php artisan migrate    
+-php artisan migrate:rollback
+-php artisan migrate:status
+-php artisan make:migration add_column_to_tableName   --table=tableName    
+-php artisan make:migration remove_column_from_tableName --table=tableName
