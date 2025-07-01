@@ -1,0 +1,14 @@
+softdeletes 
+create migration
+add softdelete in model
+
+
+delete() 
+withTrashed()
+onlyTrashed()
+restore();
+forceDelete() ---- permanent delete
+
+
+middleware 
+login system 
